@@ -10,11 +10,11 @@ In this project, you will design, build, and populate a database for the Human R
 
 After many interactions, the proposed solution is as follows:
 
-! [Conceptual ERD Schema](img/ConceptualERD.png)
+![Conceptual ERD Schema](img/ConceptualERD.png)
 
-! [Logical ERD Schema](img/LogicalERD.png)
+![Logical ERD Schema](img/LogicalERD.png)
 
-! [Physical ERD Schema](img/PhysicalERD.png)
+![Physical ERD Schema](img/PhysicalERD.png)
 
 ### Contents
 
